@@ -6,7 +6,7 @@ public class ScannerExample {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
-		System.out.print("문자열 입력> ");
+		System.out.print("문자열 입력11> ");
 		String inputString = scanner.nextLine();
 		System.out.println(inputString);		
 		System.out.println();
